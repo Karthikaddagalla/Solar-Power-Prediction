@@ -23,9 +23,9 @@ You can use any of the above files based on the time interval. Here time interva
 ## Models
 This code contains 11 models to predict the power generated from solar panels:
 
-1) Radial basis Neural Networks
-2) Long Short-Term Memory (LSTM) neural networks
-3) Modular Neural Networks
+1) Radial basis Neural Network
+2) Long Short-Term Memory (LSTM) neural network
+3) Modular Neural Network
 4) Multiple Linear Regression
 5) Support Vector Machine Regressor
 6) Decision Tree Regressor
@@ -35,4 +35,5 @@ This code contains 11 models to predict the power generated from solar panels:
 10) Ridge Regressor
 11) Kernel ridge Regressor
 
+Out of all the models, Radial basis Neural Network performed best with a RMSE(Root Mean Square Error) of 19.118 in the 10 seconds interval
 
