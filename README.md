@@ -15,13 +15,13 @@ To get started, you will need to install the following dependencies:
 Once you have installed the dependencies, you can run the code by following these steps:
 
 1) Clone the repository.
-2) Open the Final_code_file_10_seconds.ipynb file.
+2) Open the **Final_code_file_10_seconds.ipynb** file.
 3) Run the code.
 
 You can use any of the above files based on the time interval. Here time interval represents the time gap between the each data point when collected from the solar system.
 
 ## Models
-The code contains 11 models to predict the power generated from solar panels:
+This code contains 11 models to predict the power generated from solar panels:
 
 1) Radial basis Neural Networks
 2) Long Short-Term Memory (LSTM) neural networks
